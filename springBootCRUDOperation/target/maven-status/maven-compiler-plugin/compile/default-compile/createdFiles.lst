@@ -1,0 +1,7 @@
+com\javaCRUD\SpringBootCrudOperationApplication.class
+com\javaCRUD\services\BooksServiceImpl.class
+com\javaCRUD\controller\BooksController.class
+com\javaCRUD\repository\BooksRepository.class
+com\javaCRUD\model\Books.class
+com\javaCRUD\model\Books$BooksBuilder.class
+com\javaCRUD\services\BooksServices.class
